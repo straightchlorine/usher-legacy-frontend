@@ -1,4 +1,4 @@
-# Repository succeed by [usher](https://github.com/straightchlorine/usher). Code written by @kubson2002k, containerization by @straightchlorine.
+# Successor: [usher](https://github.com/straightchlorine/usher). Code written by @kubson2002k, containerization by @straightchlorine.
 
 ## Getting Started with Create React App
 
